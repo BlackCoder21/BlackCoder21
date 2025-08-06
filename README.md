@@ -1,5 +1,5 @@
 **👋 Hi, I’m @Sean Shah**  
-🚀 Machine Learning Engineer | AI Enthusiast | Principal Data Science
+🚀 Machine Learning Engineer | AI Enthusiast | Principal Data Scientist
 
 **👀 I’m interested in...**  
 - Deep learning & neural networks  
