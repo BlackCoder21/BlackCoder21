@@ -1,4 +1,4 @@
-**👋 Hi, I’m @Minail Anwer A**  
+**👋 Hi, I’m @Sean Shah**  
 🚀 Machine Learning Engineer | AI Enthusiast | Data Science Practitioner  
 
 **👀 I’m interested in...**  
